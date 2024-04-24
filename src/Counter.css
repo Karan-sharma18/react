@@ -1,0 +1,36 @@
+/* Counter.css */
+
+.counter {
+    text-align: center;
+  }
+  
+  .counter-value {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  .button-container {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .button {
+    padding: 10px 20px;
+    margin: 0 10px;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .like {
+    background-color: #3897f0;
+    color: #fff;
+  }
+  
+  .unlike {
+    background-color: #ed4956;
+    color: #fff;
+  }
+  
